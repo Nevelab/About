@@ -4,7 +4,7 @@
 Nevelab's enterprise grade software is designed for teams to collaborate, experience social enterprises' purposes and scale effective skills to perform more and be resilient in times of crisis.
 <br />
 ## Tomorrow’s challenges require a new social paradigm
-Nevelab helps organizations make progress in tackling local problems and scale to apply their efforts broadly, by accelerating sustainable and equitable growth, opportunities and drive positive change.
+Nevelab helps organizations make progress in tackling local problems and scale to apply their efforts broadly, by accelerating sustainable and equitable growth, opportunities and drive positive change. Our mission is to provide the necessary tools to overcome critical issues and build long term impact through four focus areas:
 
 <strong>Awareness</strong>
 <br />We are using technology to help enterprises solve some of the toughest challenges — from raising awareness and managing complex agendas, to improving learning experiences for their community, to justify their impact commitment and purpose.
@@ -21,6 +21,12 @@ Nevelab helps organizations make progress in tackling local problems and scale t
 ## Our values: diversity, equity and inclusion
 We believe that the strongest teams incorporate and uplift a wide range of voices. To help build a more just, equitable future, we need people from all different backgrounds and experiences, who can challenge each other’s assumptions with fresh perspectives.
 <br />
+## About Nevelab on Github
+At Nevelab we created several programs to help decision-makers understand the importance of adopting impact maturity drivers while unleashing the power of Open Source, Artificial Intelligence and Blockchain.
+We will regularly share our progresses and milestones, from conducting research to connecting with good organizations, so we can help more organizations amplify their impact.
+
+<strong>We pledge to provide resources for people to make lasting change—in their communities and around the world</strong>.
+
 ## To learn more about our work, you can follow us on 
 <br />Website: https://nevelab.com/
 <br />Medium: https://medium.com/@nevelab
